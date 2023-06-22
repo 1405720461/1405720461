@@ -7,7 +7,7 @@
     </a>
   </div>
     <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-
+  <img width="100%" alt="game gif" src="https://raw.githubusercontent.com/1405720461/1405720461/output/github-contribution-grid-snake.svg"/>
   ✨ 学习
   <br>
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
@@ -18,9 +18,9 @@
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
   
-  <div align="center">
+  <!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1405720461&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-  </div>
+  </div> -->
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
