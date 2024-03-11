@@ -25,7 +25,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://wjldarling.top/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://cdn.staticaly.com/gh/1405720461/images@master/img/wx.webp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://cdn.jsdelivr.net/gh/1405720461/images@master/img/wx.png"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/392071577/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=1405720461&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
