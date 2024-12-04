@@ -7,7 +7,7 @@
     </a>
   </div>
     <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img width="100%" alt="game gif" src="https://raw.githubusercontent.com/1405720461/1405720461/output/github-contribution-grid-snake.svg"/>
+  <img width="100%" alt="game gif" src="https://raw.githubusercontent.com/HYH0309/1405720461/output/github-contribution-grid-snake.svg"/>
   ✨ 学习
   <br>
   <img height="100" width="100" src="https://fastly.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
